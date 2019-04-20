@@ -1,0 +1,11 @@
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab1\Lab1\obj\Debug\Lab1.StudentRegister.resources
