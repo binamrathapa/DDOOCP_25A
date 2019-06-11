@@ -1,0 +1,17 @@
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Lab12.Tests.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Lab12.Tests.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Lab12.exe
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Lab12.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Lab12.exe.config
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\obj\Debug\Lab12.Tests.csprojAssemblyReference.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\obj\Debug\Lab12.Tests.csproj.CoreCompileInputs.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\obj\Debug\Lab12.Tests.csproj.CopyComplete
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\obj\Debug\Lab12.Tests.dll
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12.Tests\obj\Debug\Lab12.Tests.pdb

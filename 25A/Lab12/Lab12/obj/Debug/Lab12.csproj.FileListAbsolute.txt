@@ -1,0 +1,17 @@
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.pdb
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.Login.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.NewBatch.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.RegisterStudent.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.DisplayBatches.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.DisplayStudents.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.IOTest.resources
+D:\Binod Document\Soft\DDOOCP\25A\Lab12\Lab12\obj\Debug\Lab12.UploadTest.resources
